@@ -2,7 +2,6 @@ spring:
   cloud:
     config:
       enabled: true
-
 eureka:
   enableSelfPreservation: true
   client:
@@ -11,3 +10,4 @@ eureka:
   server:
     waitTimeInMsWhenSyncEmpty: 0
     instanceEnabledOnit: true
+
