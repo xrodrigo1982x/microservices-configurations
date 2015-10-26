@@ -1,3 +1,6 @@
 signing-key: oui214hmui23o4hm1pui3o2hp4m1o3h2m1o43
 hazelcast:
   endpoint: hazelcast-server1:5701
+eureka:
+ instance:
+  preferIpAddress: true
