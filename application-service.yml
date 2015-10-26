@@ -1,0 +1,5 @@
+access-token-validity-in-days: 7
+mongo:
+  host: 172.17.0.8
+  port: 27017
+  database: login
