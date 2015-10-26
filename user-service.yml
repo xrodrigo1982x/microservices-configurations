@@ -1,0 +1,3 @@
+cassandra:
+  host: cassandra-server1
+  port: 9042
