@@ -1,9 +1,10 @@
 access-token-validity-in-days: 7
 
+hazelcast:
+  endpoint: 172.17.0.14:5701
+  
 mongo:
-  host: mongo-server
-  port: 27017
-  database: login
-
+  host: 172.17.0.13
+	
 static:
-  path: ~/IdeaProjects/microservices/site
+  path: /site
