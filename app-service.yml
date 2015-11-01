@@ -1,7 +1,4 @@
 access-token-validity-in-days: 7
-
-hazelcast:
- endpoint: 172.17.0.14:5701
   
 mongo:
  host: 172.17.0.13
